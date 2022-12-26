@@ -3,7 +3,7 @@ O projeto foi feito para fins de aprendizagem a aprimoramentos técnicos.
 
 ## 🛠️ Construído com
 
-* [HTML, CSS e JavaScript] - HTML e CSS --> Identação e Design || JavaScript --> Back-End
+* [HTML, CSS e JavaScript] - Marcação, Design e Funcionalidade, respectivamente.
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/) - IDE utilizado
 
 ## 📌 Versão
