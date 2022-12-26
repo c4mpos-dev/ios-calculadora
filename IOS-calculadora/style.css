@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body #fullheight {
+    min-height: 100% !important;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+
+
+.botaolink {
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    background-color: #db8a18;
+    width: 450px;
+    height: 120px;
+    position: relative;
+    top: 30px;
+    border-radius: 100px;
+    border: none;
+}
+
+.container {
+    height: 100%;
+    background-color: black;
+    position: relative;
+    top: 510px;
+}
+
+.result {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color: white;
+    height: 39%;
+    position: relative;
+    bottom: 20px;
+}
+
+.result span {
+    margin-right: 60px;
+    font-size: 210px;
+    justify-self: flex-end;
+}
+
+.buttons {
+    width: 100%;
+    height: 60%;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-row-gap: 40px;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    color: white;
+    border-radius: 100%;
+    width: 210px;
+    height: 210px;
+    padding: 10px;
+    cursor: pointer;
+    align-self: center;
+    justify-self: center;
+}
+
+.percent {
+    background-color: #A5A5A5;
+    border: none;
+    color: black;
+}
+
+.item1 {
+    background: #A5A5A5;
+    border: none;
+}
+
+.negative, .clear {
+    color: black;
+}
+
+.item3 {
+    background-color: #db8a18;
+    border: none;
+}
+
+.numbers, .comma {
+    background-color: #343434;
+    border: none;
+}
+
+.itemZero {
+    width: 435px;
+    border-radius: 135px;
+    grid-column: span 2;
+    border: none;
+}
