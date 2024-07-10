@@ -15,10 +15,6 @@ Essa é a primeira e única versão do produto.
 * **Cauã Campos** - *Desenvolvimento* - [Cauã Campos](https://github.com/c-Campos-ss)
 * **Cauã Campos** - *Documentação* - [Cauã Campos](https://github.com/c-Campos-ss)
 
-## 📎 Link do projeto para utilização
-
-* https://ios-calculadora.netlify.app/
-
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢.
